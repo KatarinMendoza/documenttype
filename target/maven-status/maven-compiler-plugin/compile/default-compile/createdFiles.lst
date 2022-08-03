@@ -1,0 +1,6 @@
+com\sistemabancario\documenttype\DocumenttypeApplication.class
+com\sistemabancario\documenttype\repository\IDocumentTypeRepository.class
+com\sistemabancario\documenttype\service\IDocumentTypeService.class
+com\sistemabancario\documenttype\controller\DocumentTypeController.class
+com\sistemabancario\documenttype\service\impl\DocumentTypeService.class
+com\sistemabancario\documenttype\domain\DocumentType.class
